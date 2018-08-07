@@ -1,12 +1,6 @@
-I live you too 
 Creating a new branch is quick.
-2333333333333
-2333333333333
-2333333333333
-xxxx
-2333333333333
-2333333333333
-2333333333333
-xxxx
-Creating a new branch is quick & simple.
-
+Creating a new branch is quick.
+Creating a new branch is quick.
+Creating a new branch is quick.
+这可怎么办
+Creating a new branch is quick.
